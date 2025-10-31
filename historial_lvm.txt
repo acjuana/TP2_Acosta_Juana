@@ -62,3 +62,13 @@
    62  sudo vgs > vgs.txt
    63  sudo lvs > lvs.txt
    64  history > historial_lvm.txt
+   65  ls -l
+   66  git add .
+   67  git commit -m "Añadiendo archivos TP2"
+   68  git config --global user.email "aannnuani@gmail.com"
+   69  git config --global user.name "Juana Acosta"
+   70  git add .
+   71  git commit -m "Añadiendo archivos TP2"
+   72  git push
+   73  history -w
+   74  history > historial_lvm.txt
